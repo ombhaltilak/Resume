@@ -1,4 +1,4 @@
-# Om Bhaltilak | AI & Data Science Engineer 🤖
+# Om Bhaltilak | AI & Data Science Engineering Student
 
 Personal repository for my professional resume, certifications, and high-performance AI projects. Currently pursuing a **B.Tech in AI & Data Science** at AISSMS IOIT, Pune.
 ## 📄 My Resume
